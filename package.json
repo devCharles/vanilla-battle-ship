@@ -1,0 +1,14 @@
+{
+  "name": "battle-ship",
+  "version": "1.0.0",
+  "description": "battle ship game",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"**/*.html, **/*.css, **/*.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}
